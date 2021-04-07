@@ -16,7 +16,7 @@ public class GLFrame extends Frame {
     public GLFrame() {
         GLCanvas canvas = new GLCanvas();
         canvas.setIgnoreRepaint(false);
-        canvas.setSize(1024, 1080);
+        canvas.setSize(1924, 1080);
 
         setTitle("Sample OpenGL Java application");
         setResizable(false);
